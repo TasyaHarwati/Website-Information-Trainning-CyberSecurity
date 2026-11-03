@@ -1,0 +1,5 @@
+Letakkan gambar Anda di folder ini dengan nama:
+- hero.jpg (gambar utama)
+- poster.jpg (poster/infografik utama)
+- foto-1.jpg, foto-2.jpg, foto-3.jpg (galeri)
+Anda boleh mengganti nama file gambar, tetapi sesuaikan juga atribut src di index.html.
